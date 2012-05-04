@@ -1,0 +1,4 @@
+bashcol
+=======
+
+bash scripts collection
